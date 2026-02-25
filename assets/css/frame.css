@@ -1,0 +1,11 @@
+/* biblioteca de estilos para o frame da página */
+.container-page{
+    width: 100%;
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+.flex-division {
+    display:flex;
+}
+/**/
