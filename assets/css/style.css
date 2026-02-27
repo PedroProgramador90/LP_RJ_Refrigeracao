@@ -241,10 +241,20 @@ main {
     padding:44px;
 }
 
+.circle-green {
+    width:15px;
+    height:15px;
+    border-radius: 100%;
+    background-color:var(--color-green);
+}
+
 .compart-details {
-    width:320px;
+    width:330px;
     height:40px;
     padding:8px;
+    display: flex;
+    align-items: center;
+    gap:0.3rem;
     margin-bottom:1rem;
     padding-left:15px;
     background-color:var(--color-seven);
